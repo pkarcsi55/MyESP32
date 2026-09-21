@@ -1,6 +1,6 @@
 # ESP32 Examples for Physics Education
 
-This repository contains ESP32 source codes used in experiments, demonstrations, and educational projects presented on the **Piláth Blog**.
+This repository contains ESP32 source codes used in experiments, demonstrations, and educational projects presented on the **[Piláth Blog](#https://pilath.wordpress.com/blog/)**.
 
 The programs were developed primarily for physics and STEM education. Most examples accompany practical experiments described in detail on the blog.
 Not every project contains all of these files. Some directories contain only the ESP32 source code when the complete description is available on the blog.
